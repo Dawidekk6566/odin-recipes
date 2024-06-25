@@ -1,1 +1,1 @@
-# odin-recipes
+With this repository I will learn how and when to commit your project, also how to build simple page using HTML.
